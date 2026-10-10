@@ -16,8 +16,8 @@ Welcome to my corner of GitHub! 🚀
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: You're already here! 😁
+- 💼 LinkedIn: [www.linkedin.com/in/zindo-girish](YOUR_LINKEDIN_URL)
+- 🐙 Gmail: zindogirishh@gmail.com 😁
 
 ---
 
