@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Zindo 👋
 
-<!--
-**ZindoGirish/ZindoGirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | ☁️ DevOps & Cloud Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 BCA graduate with an interest in technology and automation.
+- ☁️ Exploring the world of AWS and Cloud Computing.
+- 🐳 Working with Docker, Kubernetes, Jenkins, and Terraform.
+- 🔧 Love building projects, automating workflows, and solving problems.
+- 🌱 Always learning something new and improving my skills.
+
+### 🛠️ My Tech Stack
+
+`AWS` `Git` `GitHub` `Docker` `Kubernetes` `Jenkins` `Terraform` `SonarQube` `Trivy` `Prometheus` `Grafana` `Helm`
+
+### 📫 Let's Connect
+
+- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 🐙 GitHub: You're already here! 😁
+
+---
+
+*BCA graduate, DevOps enthusiast, and a work in progress. Building, breaking, learning, repeating. 🔁*
