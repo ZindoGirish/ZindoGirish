@@ -19,7 +19,7 @@ Welcome to my corner of GitHub! 🚀
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [zindo-girish](https://www.linkedin.com/in/zindo-girish/)
-- 📧 Gmail: [zindogirishh@gmail.com](mailto:zindogirishh@gmail.com) 😁
+- 📧 [Email me](https://mail.google.com/mail/?view=cm&to=zindogirishh@gmail.com) 😁
 ---
 
 *BCA graduate, DevOps enthusiast, and a work in progress. Building, breaking, learning, repeating. 🔁*
